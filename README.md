@@ -1,7 +1,7 @@
-﻿# zahidkhan1081portfolio
+
  # Portfolio Website
 
-A clean and responsive personal portfolio website showcasing my skills, projects, and contact information.
+A clean and responsive personal portfolio website showcasing my skills, projects, and contact information ,for learning purpose.
 
 ## About
 
