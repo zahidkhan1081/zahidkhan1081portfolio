@@ -1,5 +1,5 @@
 
- # Portfolio Website
+ # Portfolio Web
 
 A clean and responsive personal portfolio website showcasing my skills, projects, and contact information ,for learning purpose.
 
